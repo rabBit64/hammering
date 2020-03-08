@@ -17,22 +17,25 @@
 /*
  * Callback for checking a particular pair of aggressor rows before hammering.
  * Returns 0 if attack should proceed, non-zero to skip
+ * :해머링 전에 특정 공격자 row pair을 체크하기 위해 콜백(공격이 실행되야 하면 0 반환, 아니면 skip)
  */
 typedef int (*attack_check_fn_t)(struct AddrEntry, struct AddrEntry, void *);
+
 /* Callback for when a bit flip is found */
 typedef void (*bitflip_report_fn_t)(struct AddrEntry, size_t, uint8_t, uint8_t, void *);
+
 /* Callback for when an attack ends */
 typedef void (*attack_end_fn_t)(void *);
 
 struct ProfileCtx {
 	struct BufferMap *bm; /* Main hammer buffer */
 
-	const void *tpat; /* Pattern to fill target (aggressor) rows with */
+	const void *tpat; /* Pattern to fill target (aggressor) rows with :공격자 row를 채울 패턴(target pattern)*/
 	size_t tpatlen;
-	const void *vpat; /* Pattern to fill victim rows with */
+	const void *vpat; /* Pattern to fill victim rows with :피해자 row를 채울 패턴(victim pattern)*/
 	size_t vpatlen;
 
-	hammerfunc_t hamfunc; /* Hammer function used to trigger rowhammer */
+	hammerfunc_t hamfunc; /* Hammer function used to trigger rowhammer :로우패머 일으킬 해머함수*/
 	long hamopt; /* Hammer function option argument */
 	attack_check_fn_t attack_check_fn; /* Attack check callback */
 	void *attack_check_fn_arg;

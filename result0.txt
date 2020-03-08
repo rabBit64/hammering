@@ -1,0 +1,116 @@
+GPGFlip
+405 total attacks (over 3240 KiB), of which 0 successful (  0.0 %)
+0 exploitable pages found
+
+APT sources.list domain flip
+405 total attacks (over 3240 KiB), of which 0 successful (  0.0 %)
+0 exploitable pages found
+실험완료
+
+
+
+GPGFlip
+431 total attacks (over 3448 KiB), of which 0 successful (  0.0 %)
+0 exploitable pages found
+
+APT sources.list domain flip
+431 total attacks (over 3448 KiB), of which 1 successful (  0.2 %)
+1 exploitable pages found
+Minimum (contiguous) memory required: 3448 KiB
+Mean number of attacks until successful: 431.0
+Mean time to successful attack: 86.2 seconds (assuming 200ms/attack)
+실험완료
+
+
+
+GPGFlip
+438 total attacks (over 3504 KiB), of which 0 successful (  0.0 %)
+0 exploitable pages found
+
+APT sources.list domain flip
+438 total attacks (over 3504 KiB), of which 0 successful (  0.0 %)
+0 exploitable pages found
+실험완료
+
+
+
+GPGFlip
+388 total attacks (over 3104 KiB), of which 0 successful (  0.0 %)
+0 exploitable pages found
+
+APT sources.list domain flip
+388 total attacks (over 3104 KiB), of which 0 successful (  0.0 %)
+0 exploitable pages found
+실험완료
+
+
+
+GPGFlip
+413 total attacks (over 3304 KiB), of which 0 successful (  0.0 %)
+0 exploitable pages found
+
+APT sources.list domain flip
+413 total attacks (over 3304 KiB), of which 0 successful (  0.0 %)
+0 exploitable pages found
+실험완료
+
+
+
+GPGFlip
+396 total attacks (over 3168 KiB), of which 0 successful (  0.0 %)
+0 exploitable pages found
+
+APT sources.list domain flip
+396 total attacks (over 3168 KiB), of which 0 successful (  0.0 %)
+0 exploitable pages found
+실험완료
+
+
+
+GPGFlip
+395 total attacks (over 3160 KiB), of which 0 successful (  0.0 %)
+0 exploitable pages found
+
+APT sources.list domain flip
+395 total attacks (over 3160 KiB), of which 1 successful (  0.3 %)
+1 exploitable pages found
+Minimum (contiguous) memory required: 3160 KiB
+Mean number of attacks until successful: 395.0
+Mean time to successful attack: 79.0 seconds (assuming 200ms/attack)
+실험완료
+
+
+
+GPGFlip
+422 total attacks (over 3376 KiB), of which 0 successful (  0.0 %)
+0 exploitable pages found
+
+APT sources.list domain flip
+422 total attacks (over 3376 KiB), of which 0 successful (  0.0 %)
+0 exploitable pages found
+실험완료
+
+
+
+GPGFlip
+439 total attacks (over 3512 KiB), of which 0 successful (  0.0 %)
+0 exploitable pages found
+
+APT sources.list domain flip
+439 total attacks (over 3512 KiB), of which 0 successful (  0.0 %)
+0 exploitable pages found
+실험완료
+
+
+
+GPGFlip
+393 total attacks (over 3144 KiB), of which 0 successful (  0.0 %)
+0 exploitable pages found
+
+APT sources.list domain flip
+393 total attacks (over 3144 KiB), of which 0 successful (  0.0 %)
+0 exploitable pages found
+실험완료
+
+
+

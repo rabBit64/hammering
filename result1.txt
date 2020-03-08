@@ -1,0 +1,85 @@
+GPGFlip
+GPGFlip
+
+APT sources.list domain flip
+실험완료
+
+
+
+GPGFlip
+
+APT sources.list domain flip
+실험완료
+
+
+
+GPGFlip
+
+APT sources.list domain flip
+실험완료
+
+
+
+GPGFlip
+
+APT sources.list domain flip
+실험완료
+
+
+
+GPGFlip
+
+APT sources.list domain flip
+실험완료
+
+
+
+GPGFlip
+
+APT sources.list domain flip
+실험완료
+
+
+
+GPGFlip
+
+APT sources.list domain flip
+실험완료
+
+
+
+GPGFlip
+
+APT sources.list domain flip
+실험완료
+
+
+
+GPGFlip
+3296 total attacks (over 26368 KiB), of which 0 successful (  0.0 %)
+0 exploitable pages found
+
+APT sources.list domain flip
+3296 total attacks (over 26368 KiB), of which 6 successful (  0.2 %)
+6 exploitable pages found
+Minimum (contiguous) memory required: 4400 KiB
+Mean number of attacks until successful: 549.3
+Mean time to successful attack: 109.9 seconds (assuming 200ms/attack)
+실험완료
+
+
+
+GPGFlip
+6579 total attacks (over 52632 KiB), of which 0 successful (  0.0 %)
+0 exploitable pages found
+
+APT sources.list domain flip
+6579 total attacks (over 52632 KiB), of which 10 successful (  0.2 %)
+10 exploitable pages found
+Minimum (contiguous) memory required: 5264 KiB
+Mean number of attacks until successful: 657.9
+Mean time to successful attack: 131.6 seconds (assuming 200ms/attack)
+실험완료
+
+
+

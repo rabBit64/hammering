@@ -1,0 +1,2 @@
+map : intel:ivyhaswell : 2rank : pcibase=0xdf200000 : tom=0x100000000;
+remap : rankmirror:ddr3
